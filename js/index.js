@@ -13,7 +13,6 @@ if (hacker1.length > hacker2.length) {
   console.log(`Wow, you both have equally long names, ${hacker1.length} characters!`)
 }
 
-
 // Iteration 3: Loops
 const nameArr = [hacker1, hacker2]
 // nameArr.push(hacker1, hacker2)
